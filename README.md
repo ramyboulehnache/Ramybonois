@@ -12,7 +12,7 @@
 - ⚡ Fun fact **im very funny**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2261302/screenshots/8025303/media/4aaedc32f3f90f3bc306d9064a405593.gif">
 <p align="left">
 <a href="https://fb.com/ramy bonois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramy bonois" height="30" width="40" /></a>
 <a href="https://instagram.com/ramy.jr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramy.jr13" height="30" width="40" /></a>
